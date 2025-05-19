@@ -1,4 +1,7 @@
-## Hi there 👋
+# hi
+
+## Current Intern @ Berkshire Hathaway Energy / NV Energy
+## Senior @ University of Nevada, Reno
 
 <!--
 **carloscoding925/carloscoding925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

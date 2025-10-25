@@ -14,7 +14,7 @@ type developerProfile = {
         project: "CareerMiner.com - Website for finding Jobs in IT",
         project: "DailyStandup.com - In-Browser Markdown Renderer"
     },
-    learning: "How to Build Production-Ready Apps",
+    learning: "How to design Profitable, Innovative Software Solutions",
     socials: {
         linkedIn: "https://www.linkedin.com/in/carlos-hernandez-1852792ab/",
         email: "carlosandresh925@gmail.com"

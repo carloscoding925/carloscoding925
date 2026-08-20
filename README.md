@@ -20,10 +20,7 @@ const carlos: DeveloperProfile = {
 };
 ```
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=carloscoding925&show_icons=true&theme=tokyonight&hide_border=true">
-    <img src="https://github-stats-extended.vercel.app/api?username=carloscoding925&show_icons=true&hide_border=true">
-</picture>
+<img src="https://github-stats-extended.vercel.app/api?username=carloscoding925&show_icons=true&hide_border=true&rank_icon=github&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)

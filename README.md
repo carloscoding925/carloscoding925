@@ -7,8 +7,8 @@ type developerProfile = {
         last: "Hernandez"
     },
     experience: {
-        current: "SWE Intern @ Berkshire Hathaway Energy",
-        withCompany: "Approaching 2 Years"
+        current: "Software Engineer 1 @ Berkshire Hathaway Energy",
+        withCompany: "Over 2 Years"
     },
     workingOn: {
         project: "CareerMiner.com - Website for finding Jobs in IT",

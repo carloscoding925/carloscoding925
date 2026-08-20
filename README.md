@@ -20,16 +20,16 @@ const carlos: DeveloperProfile = {
 };
 ```
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=carloscoding925&show_icons=true&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=carloscoding925&show_icons=true&hide_border=true">
+</picture>
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=carloscoding925&show_icons=true&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=carloscoding925&show_icons=true&hide_border=true">
-</picture>
 
 <!--
 **carloscoding925/carloscoding925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

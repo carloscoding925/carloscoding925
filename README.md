@@ -21,8 +21,8 @@ const carlos: DeveloperProfile = {
 ```
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=carloscoding925&show_icons=true&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=carloscoding925&show_icons=true&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=carloscoding925&show_icons=true&theme=tokyonight&hide_border=true">
+    <img src="https://github-stats-extended.vercel.app/api?username=carloscoding925&show_icons=true&hide_border=true">
 </picture>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
